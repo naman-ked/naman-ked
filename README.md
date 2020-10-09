@@ -8,10 +8,10 @@
 - ⚡ Fun fact: I love to watch tv series and play basketball
 
 ## Worklife!!
- Dell Technologies
+ Dell Technologies<br />
   ⚡ Software Engineer 1 - IT (JULY 2020 - Present)<br />
   ⚡ Software Engineer Winter Intern  (JAN-MAY 2020)<br />
-  ⚡ Software Engineer Summer Intern  Dell Technologies (MAY-JULY 2019)
+  ⚡ Software Engineer Summer Intern  (MAY-JULY 2019)
    
 ### Connect with me:
 
