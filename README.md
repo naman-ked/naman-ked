@@ -7,6 +7,15 @@
 - 👯 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch tv series and play basketball
 
+## Worklife!!
+ ⚡Dell Technologies
+   - Software Engineer 1 - IT (JULY 2020 - Present)
+   - Software Engineer Winter Intern  (JAN-MAY 2020)
+   - Software Engineer Summer Intern  Dell Technologies (MAY-JULY 2019)
+⚡Springfield Olympiads
+   - Web Developer  (FEB-MAR 2019)
+⚡GeeksforGeeks
+   - Technical Content Writer (OCT-NOV 2018)
 ### Connect with me:
 
 [<img align="left" alt="ked27" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
