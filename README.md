@@ -36,6 +36,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CSS Float @localhost51](https://www.youtube.com/watch?v=Gu_RjPfuzIA)
+- [CSS Border @localhost51](https://www.youtube.com/watch?v=DEI26qkqcp4)
+- [CSS Background @localhost51](https://www.youtube.com/watch?v=21e4o1MMmMw)
+- [CSS Fonts @localhost51](https://www.youtube.com/watch?v=Er911uTn1qI)
+- [CSS Display @localhost51](https://www.youtube.com/watch?v=GHdSoRaBVkA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCEhFS_aU8FjGD8BPsX1e8yg)
