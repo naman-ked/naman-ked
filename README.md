@@ -9,8 +9,8 @@
 
 ## Worklife!!
  Dell Technologies
-  ⚡ Software Engineer 1 - IT (JULY 2020 - Present)
-  ⚡ Software Engineer Winter Intern  (JAN-MAY 2020)
+  ⚡ Software Engineer 1 - IT (JULY 2020 - Present)<br />
+  ⚡ Software Engineer Winter Intern  (JAN-MAY 2020)<br />
   ⚡ Software Engineer Summer Intern  Dell Technologies (MAY-JULY 2019)
    
 ### Connect with me:
