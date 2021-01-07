@@ -1,14 +1,6 @@
 ﻿### Hi there, I'm Naman - aka [kedia][website] 👋
 
-- 🌱 I’m currently learning everything 🤣 - ⚡ I love to watch tv series and play basketball
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [CSS Background @localhost51](https://www.youtube.com/watch?v=21e4o1MMmMw)
-- [CSS Display @localhost51](https://www.youtube.com/watch?v=GHdSoRaBVkA)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCEhFS_aU8FjGD8BPsX1e8yg)
+### [ 📺 Latest YouTube Videos ➡️](https://www.youtube.com/channel/UCEhFS_aU8FjGD8BPsX1e8yg)
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ked27&show_icons=true&hide_border=true" />
