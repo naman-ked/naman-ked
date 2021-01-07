@@ -1,6 +1,8 @@
 ﻿### Hi there, I'm Naman - aka [kedia][website] 👋
 
-### [ 📺 Latest YouTube Videos](https://www.youtube.com/channel/UCEhFS_aU8FjGD8BPsX1e8yg) <details>
+### [ 📺 Latest YouTube Videos](https://www.youtube.com/channel/UCEhFS_aU8FjGD8BPsX1e8yg)
+
+<details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ked27&show_icons=true&hide_border=true" />
 </details>
