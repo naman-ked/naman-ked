@@ -5,7 +5,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ked27&show_icons=true&hide_border=true" />
 </details>
 
-[website]: https://ked27.github.io/Webd/Myprofile/me.html
+[website]: https://ked27.github.io/webd/Myprofile/me.html
 [twitter]: https://twitter.com/NamanKed
 [youtube]: https://www.youtube.com/channel/UCEhFS_aU8FjGD8BPsX1e8yg
 [instagram]: https://www.instagram.com/__naman_kedia__/
