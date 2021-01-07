@@ -34,16 +34,6 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Projects</summary>
-
-<!--START_SECTION:activity-->
-1. 💪 Working on daily Coding Challenges [#codeit](https://github.com/ked27/Webd)
-2. 💪 Front end projects [#Webd](https://github.com/ked27/codeit)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ked27&show_icons=true&hide_border=true" />
