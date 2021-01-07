@@ -7,10 +7,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [CSS Float @localhost51](https://www.youtube.com/watch?v=Gu_RjPfuzIA)
-- [CSS Border @localhost51](https://www.youtube.com/watch?v=DEI26qkqcp4)
 - [CSS Background @localhost51](https://www.youtube.com/watch?v=21e4o1MMmMw)
-- [CSS Fonts @localhost51](https://www.youtube.com/watch?v=Er911uTn1qI)
 - [CSS Display @localhost51](https://www.youtube.com/watch?v=GHdSoRaBVkA)
 <!-- YOUTUBE:END -->
 
@@ -27,13 +24,10 @@
 - [Future of home automation](https://www.geeksforgeeks.org/future-of-home-automation/)
 - [How to read Competitive Programming Questions?](https://www.geeksforgeeks.org/how-to-read-competitive-programming-questions/)
 - [Futuristic Solution to Privacy and Security in online social media](https://www.geeksforgeeks.org/futuristic-solution-to-privacy-and-security-in-online-social-media/)
-
-<!-- BLOG-POST-LIST:END -->
-
+BLOG-POST-LIST:END
 ➡️ [more blog posts...](https://auth.geeksforgeeks.org/user/namanked/articles)
-
 ---
-
+ -->
 <details>
   <summary>:zap: GitHub Stats</summary>
 
