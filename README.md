@@ -18,9 +18,10 @@
 
 ---
 
-### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:START 
+### 📕 Latest Blog Posts
 - [Master Your Notifications](https://www.linkedin.com/pulse/master-your-notifications-naman-kedia/)
 - [Introduction to WebRTC](https://www.geeksforgeeks.org/introduction-to-webrtc/)
 - [Future of home automation](https://www.geeksforgeeks.org/future-of-home-automation/)
