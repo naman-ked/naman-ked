@@ -1,4 +1,6 @@
-﻿### Hi there, I'm Naman - aka [kedia][website] 👋 [Utube 📺 Channel][youtube]
+﻿### Hi there, I'm Naman - aka [kedia][website] 👋
+ 
+ [Utube 📺 Channel][youtube]
 
 <details>
   <summary>:zap: GitHub Stats</summary>
