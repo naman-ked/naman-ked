@@ -1,38 +1,17 @@
 ﻿### Hi there, I'm Naman - aka [kedia][website] 👋
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to watch tv series and play basketball
-
+- 🌱 I’m currently learning everything 🤣 - ⚡ I love to watch tv series and play basketball
 
 ### 📺 Latest YouTube Videos
-
 <!-- YOUTUBE:START -->
 - [CSS Background @localhost51](https://www.youtube.com/watch?v=21e4o1MMmMw)
 - [CSS Display @localhost51](https://www.youtube.com/watch?v=GHdSoRaBVkA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCEhFS_aU8FjGD8BPsX1e8yg)
-
----
-
-
-
-<!-- BLOG-POST-LIST:START 
-### 📕 Latest Blog Posts
-- [Master Your Notifications](https://www.linkedin.com/pulse/master-your-notifications-naman-kedia/)
-- [Introduction to WebRTC](https://www.geeksforgeeks.org/introduction-to-webrtc/)
-- [Future of home automation](https://www.geeksforgeeks.org/future-of-home-automation/)
-- [How to read Competitive Programming Questions?](https://www.geeksforgeeks.org/how-to-read-competitive-programming-questions/)
-- [Futuristic Solution to Privacy and Security in online social media](https://www.geeksforgeeks.org/futuristic-solution-to-privacy-and-security-in-online-social-media/)
-BLOG-POST-LIST:END
-➡️ [more blog posts...](https://auth.geeksforgeeks.org/user/namanked/articles)
----
- -->
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ked27&show_icons=true&hide_border=true" />
-
 </details>
 
 [website]: https://ked27.github.io/Webd/Myprofile/me.html
